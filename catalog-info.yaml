@@ -1,0 +1,24 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tagify
+  title: tagify
+  description: 🔖 lightweight, efficient Tags input component in Vanilla JS /
+    React / Angular / Vue
+  annotations:
+    github.com/project-slug: ITDeptUtahCountyGovernment/tagify
+    backstage.io/source-location: url:https://github.com/ITDeptUtahCountyGovernment/tagify/
+    itdept.dev/language: JavaScript
+    itdept.dev/lines-of-code: "1428"
+    itdept.dev/other-languages: HTML,Markdown,SCSS
+    itdept.dev/tech-stack: babel,node,sass
+    itdept.dev/correct-naming: "false"
+    itdept.dev/password-mgmt: none
+    itdept.dev/created-at: 2024-03-28T15:11:51Z
+    itdept.dev/catalog-last-updated: 2026-07-24T01:47:17.812Z
+    itdept.dev/linting-enforced: "false"
+    itdept.dev/ci-tested: "false"
+spec:
+  type: library
+  owner: group:default/gold-team
+  lifecycle: production
