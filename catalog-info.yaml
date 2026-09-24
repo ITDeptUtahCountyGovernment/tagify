@@ -14,12 +14,14 @@ metadata:
     itdept.dev/tech-stack: babel,node,sass
     itdept.dev/correct-naming: "false"
     itdept.dev/password-mgmt: none
+    itdept.dev/github-repo: "true"
     itdept.dev/created-at: 2024-03-28T15:11:51Z
-    itdept.dev/catalog-last-updated: 2026-07-24T01:47:17.812Z
+    itdept.dev/catalog-last-updated: 2026-09-24T03:42:05.537Z
     itdept.dev/linting-enforced: "false"
     itdept.dev/ci-tested: "false"
+    itdept.dev/rad-workflow-adopted: "false"
     itdept.dev/REMOVE-THIS-ANNOTATION: "true"
 spec:
-  type: library
+  type: website
   owner: group:default/gold-team
   lifecycle: production
