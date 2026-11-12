@@ -22,6 +22,6 @@ metadata:
     itdept.dev/rad-workflow-adopted: "false"
     itdept.dev/REMOVE-THIS-ANNOTATION: "true"
 spec:
-  type: website
+  type: library
   owner: group:default/gold-team
   lifecycle: production
